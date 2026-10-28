@@ -1,0 +1,1 @@
+import{a as e,s as t}from"./hooks.module.CLYv91Ax.js";import{t as n}from"./jsxRuntime.module.BzWfOhxj.js";import{CartBody as r}from"./CartDrawer.BmIksN5k.js";function i(){let[i,a]=e(!1);return t(()=>a(!0),[]),i?n(r,{}):n(`div`,{style:{minHeight:`40vh`},"aria-busy":`true`})}export{i as default};
